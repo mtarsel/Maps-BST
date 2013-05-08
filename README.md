@@ -14,7 +14,6 @@ assumed to work.
 
 Still need to finish the following operators in Map:
 
-Markup: 
 	1. indexing operator 
 	2. the copy constructor for Map 
 	3. erase(itr) 
