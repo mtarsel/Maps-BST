@@ -14,16 +14,12 @@ assumed to work.
 
 Still need to finish the following operators in Map:
 
-| 1. indexing operator |
-| ---------------------- |
-| 2. the copy constructor for Map |
-| ---------------------- |
-| 3. erase(itr) |
-| ---------------------- |
-| 4. count is returning garbage |
-| ---------------------- |
-| 5. swap |
-| ---------------------- |
+Markup: 
+	1. indexing operator 
+	2. the copy constructor for Map 
+	3. erase(itr) 
+	4. count is returning garbage 
+	5. swap 
 
 Tester is not fully implemented. Current operator* will cause Segmentation
 Fault.
